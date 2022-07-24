@@ -2,4 +2,4 @@
 
 Hello every one
 
-[first code](Lessons/Lesson01/first.py)
+[first code: Hello world](Lessons/Lesson01/first.py)
