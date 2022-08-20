@@ -1,0 +1,7 @@
+age = input("Enter your age please: ")
+age = int(age)
+shamsiYear = input("Enter Shamsi year: ")
+shamsiYear = int(shamsiYear)
+MiladiYear = input("Enter Miladi year: ")
+MiladiYear = int(MiladiYear)
+print("You burn on :", shamsiYear-age,"Shamsi & ",MiladiYear-age, "Miladi." )
